@@ -25,7 +25,7 @@ This is my repository for solutions of onlinejudge.org problems
 ###### VOLUME 4
 - [ ] Completed
 
-| 401 | 446 | 454 | 482 | 483 | 486 |  |  |  |  |
+| 401 | 446 | 454 | 482 | 483 | 486 | 487 |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ###### VOLUME 5
